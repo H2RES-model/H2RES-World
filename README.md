@@ -2,7 +2,7 @@
 
 This project prepares geospatial zoning for H2RES, separating the world into
 layers to enable multi-level energy
-modeling and analysis. The target level of disaggregation can be adjusted
+modeling and analysis. The target level of disaggregation will be adjusted
 based on user requirements.
 
 ## Contents
