@@ -11,3 +11,7 @@ based on user requirements, that means, any zone is open for proposed changes.
 - Supporting data for subregion statistics.
 - PDF maps by layer for quick visualization.
 
+## First Layer: World Zoning
+The next image shows how the H2RES team plan to subdivide the world, on nine macro regions:
+
+![L0 Macro Regions](Maps/Layer0/L0_MacroRegions.png)
